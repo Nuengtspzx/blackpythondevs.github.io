@@ -20,7 +20,7 @@ Please read [Contributing to Black Python Devs](CONTRIBUTING.md)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/BlackPythonDevs/blackpythondevs.github.io?folder=/workspace/blackpythondevs.github.io)
 
-You can deploy your project locally but the fastest way to contribute is to use our [Codespace](https://github.com/features/codespaces/).
+You can deploy your project locally but the fastest way to contribute is to use our [Codespace](https://github.com/features/codespaces/)v.
 
 ## Contributors
 
